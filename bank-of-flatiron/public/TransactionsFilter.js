@@ -18,3 +18,5 @@ const TransactionFilter = ({ transactions }) => {
     setFilteredTransactions(filtered);
   };
 }
+
+export default TransactionFilter;
